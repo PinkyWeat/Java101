@@ -13,6 +13,6 @@ public class HolaMundo3 {
         System.out.println(i + j + usuario); // primero hace la suma y luego concatena
         System.out.println(usuario + i + j); // lo toma como cadena por empezar con str
         System.out.println(usuario + (i + j)); // los parentesis tienen preferencia above all
-        
+
     }
 }
