@@ -19,5 +19,7 @@ public class HolaMundo2 {
         var string2 = "Kween Sperence";
         System.out.println("string2 = " + string2);
         System.out.println("miString = " + miString);
+
+        var $abelo = "hello"; //se puede poner un $ antes de la variable omg! _ tmbn
     }
 }
