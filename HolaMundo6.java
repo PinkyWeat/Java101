@@ -9,6 +9,5 @@ public class HolaMundo6 {
 
         byte numByte2 = (byte) 129; // el (byte) transforma y obliga a que sea byte
         System.out.println("Valor byte ahora: " + numByte2);
-
     }
 }
