@@ -18,7 +18,7 @@ public class HolaMundo12 {
         // Pedir un valor
         var consola = new Scanner(System.in);
         System.out.println("Proporciona tu edad: ");
-        edad = Integer.parseInt(consola.nextLine());
-        System.out.println("edad = " + edad);
+        edad = Integer.parseInt(consola.nextLine()); // si no le pones un entero te tira.
+        System.out.println("edad = " + edad); // una exception pero no vimos eso aun.
     }
 }
