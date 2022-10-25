@@ -15,6 +15,6 @@ public class HolaMundo17 {
         System.out.println("resultado cadena == cadena2 : " + e);
 
         var f = !cadena.equals(cadena2); // checkea contenido
-        System.out.println("with equals: " + f);  
+        System.out.println("with equals: " + f);
     }
 }
