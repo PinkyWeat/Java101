@@ -4,7 +4,7 @@ public class CiclosUno {
 
         while (contador < 3) {
             System.out.println("contador = " + contador);
-            contador++; 
+            contador++;
         }
     }
 }
